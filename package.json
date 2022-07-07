@@ -4,6 +4,10 @@
 	"description": "Check if there's any classes not being used on your HTML files by any CSS or JS on your environment",
 	"version": "1.0.0",
 	"publisher": "alsoto25",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alsoto25/html-class-checker"
+	},
 	"engines": {
 		"vscode": "^1.66.0"
 	},
