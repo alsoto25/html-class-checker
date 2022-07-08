@@ -63,10 +63,11 @@ If you want to add a new CDN third party, you can do it by following these steps
 
 At the time this readme was written, the Extension has not been published to the Extension Marketplace, so we have to install it manually. Thankfully the way to do it is very simple.
 
-1. Go to the Extensions tab in the sidebar.
-2. Click on the 3 dots (...) at the top right of the sidebar.
-3. Click the `Install from VSIX...` option.
-4. Look for the `.vsix` file.
+1. Download the `.vsix` file in the repo.
+2. Go to the Extensions tab in the sidebar.
+3. Click on the 3 dots (...) at the top right of the sidebar.
+4. Click the `Install from VSIX...` option.
+5. Look for the `.vsix` file.
 
 ![install](assets/install.png)
 
